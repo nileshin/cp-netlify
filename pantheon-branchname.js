@@ -21,5 +21,5 @@ module.exports = {
   branch_name,
   pantheon_environment_url,
   netlify_url,
-  lando_environment_url: 'cpdublincom3.lndo.site'
+  lando_environment_url: 'cpcom3.lndo.site'
 }
